@@ -34,7 +34,7 @@ const MainNavigation = props => {
                     <span />
                 </button>
                 <h2 className="main-navigation__title">
-                    <Link to="/">New Zealand Guide</Link>
+                    <Link to="/">City Guideline</Link>
                 </h2>
                 <nav className="main-navigation__header-nav"><NavLinks /></nav>
             </MainHeader>

@@ -1,0 +1,42 @@
+.modal {
+    z-index: 100;
+    position: fixed;
+    top: 22vh;
+    left: 10%;
+    width: 80%;
+    background: white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  
+  .modal__header {
+    width: 100%;
+    padding: 1rem 1rem;
+    background-color: rgb(226, 155, 0);
+    color: white;
+  }
+
+  .modal__header p{
+    color: white;
+    margin: 0;
+  }
+  
+  .modal__content {
+    padding: 1rem 1rem;
+  }
+  
+  .modal__footer {
+    padding: 1rem 1rem;
+  }
+  
+  @media (min-width: 768px) {
+    .modal {
+      left: calc(50% - 20rem);
+      width: 40rem;
+    }
+  }
+  .map-content{
+    width: 100%;
+    height: 100%;
+}
