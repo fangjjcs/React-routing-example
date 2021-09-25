@@ -37,7 +37,7 @@ const DUMMY_PLACES = [
         description:'布魯克林大橋是當時曼哈頓和布魯克林間唯一的陸上通道。',
         imageUrl: 'https://a.bbkz.net/forum/spot/photos/192/photo_348.jpg?v=1417075680',
         address: 'Brooklyn Bridge, New York, NY 100381',
-        location: {lat: 40.7484405, lng: -73.9878584},
+        location: {lat: 40.7060855, lng: -73.9968643},
         creator: 'u2'
     }
 ]
